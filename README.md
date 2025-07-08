@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sucrostasis
 - 👀 I’m interested in FURRY, PROGRAMMING, MUSIC_GAME and WRITING.
 - 🌱 I’m currently learning C, C++, Python, Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on C++
+- 📫 How to reach me wang1219_9@qq.com or satouwang@qq.com
 
 <!---
 Sucrostasis/Sucrostasis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
